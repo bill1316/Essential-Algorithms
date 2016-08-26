@@ -8,12 +8,12 @@ def FindMinimum(array):
  
         return minimum
 
-def FindMax(array):
+def FindMaximum(array):
         #write your code here
         maximum=0
         for i in range(len(array)):
 	     	if(array[i]>maximum):
-			max = array[i]
+		     maximum = array[i]
         return maximum
 
 def FindAverage(array):
@@ -29,6 +29,3 @@ list = [2,4,6,8,1,3,5,7]
 print "min: ", FindMinimum(list)
 print "max: ", FindMaximum(list)
 print "average: ", FindAverage(list)
-
-
-
