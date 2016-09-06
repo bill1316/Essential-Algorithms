@@ -44,15 +44,17 @@ for i in range(10000):
         count5_2+=1
     if dice2==6:
         count6_2+=1
-print "You entered from first dice  "+ str(count1)+ " ones, " + str(count2) + " twos, "+str(count3) + " threes, " +str(count4)+ " fours, " +str(count5)+ " fives, and "+str(count6) +" sixes."
+print "First Die:"+ str(count1)+ " ones, " + str(count2) + " twos, "+str(count3) + " threes, " +str(count4)+ " fours, " +str(count5)+ " fives, and "+str(count6) +" sixes."
+print "Second Die "+ str(count1_2)+ " ones, " + str(count2_2) + " twos, "+str(count3_2) + " threes, " +str(count4_2)+ " fours, " +str(count5_2)+ " fives, and "+str(count6_2) +" sixes."
+
 count1 = plt.bar( 1,count1, width=0.3,color='b',label='dice 1 ')
-count2= plt.bar( 2,count2,  width=0.3,color='b',label='dice 1 ')
+count2= plt.bar(2,count2,  width=0.3,color='b',label='dice 1 ')
 count3 = plt.bar( 3,count3, width=0.3, color='b',label='dice 1 ')
 count4 = plt.bar( 4,count4,  width=0.3,color='b',label='dice 1 ')
 count5 = plt.bar( 5,count5, width=0.3, color='b',label='dice 1 ')
 count6 = plt.bar( 6,count6, width=0.3, color='b',label='dice 1 ')
 plt.show()
-print "You entered from second dice "+ str(count1_2)+ " ones, " + str(count2_2) + " twos, "+str(count3_2) + " threes, " +str(count4_2)+ " fours, " +str(count5_2)+ " fives, and "+str(count6_2) +" sixes."
+
 count1_2 = plt.bar( 1,count1_2, width=0.3,color='c',label='dice 2')
 count2_2= plt.bar( 2,count2_2,  width=0.3,color='c',label='dice 2')
 count3_2 = plt.bar( 3,count3_2, width=0.3, color='c',label='dice 2')
