@@ -1,5 +1,5 @@
 4.	Finding Prime factors:
-
+'''
 List Of Integer: FindFactors(Integer: number)
 List Of Integer: factors
 // Pull out factors of 2.
@@ -27,7 +27,7 @@ End While
 If (number > 1) Then factors.Add(number)
 Return factors
 End FindFactors
-
+'''
 
 def prime_factors(n):
     i = 2
