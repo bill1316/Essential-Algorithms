@@ -1,17 +1,20 @@
-#suppose we have a basic class containing a single data field:
-class ListNode:
-    def __init__(self,data):
-#We can create several instances of this class ,each storing data of our choosing.In the following example , we create three instances ,each storing an interger value:
-        a=ListNode(11)
-        b=ListNode(52)
-        c=ListNode(18)
+# #suppose we have a basic class containing a single data field:
+# class ListNode:
+#     def __init__(self,data):
+# #We can create several instances of this class ,each storing data of our choosing.In the following example , we create three instances ,each storing an interger value:
+#         a=ListNode(11)
+#         b=ListNode(52)
+#         c=ListNode(18)
 
 
 #Now suppose we add a second data field to the ListNode class:
 class ListNode:
-    def __init__(self,data):
+    def __init__(self,data=None, next=None):
         self.data=data
-        self.next=None
+        self.next=next
+
+    def __str__(self):
+        return str(self.data)
 #The three object would now have a second data field initialized with a null reference
         a.next=b
         b.next=c
@@ -21,6 +24,9 @@ class ListNode:
         print(a.next.data)
         print(a.next.next.data)
 
+a=ListNode(11)
+b=ListNode(52)
+c=ListNode(18)
 #Traversing a linked list
 def traversal(head):
     curNode=head
@@ -52,5 +58,3 @@ if curNode is not None:
         head=curNode.next
     else:
         predNode.next=curNode.next
-
-        
