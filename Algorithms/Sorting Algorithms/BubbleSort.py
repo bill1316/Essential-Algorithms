@@ -1,6 +1,6 @@
-///Bubble  Sort Algorithms.
-//Author: Geraldo Braho
-//date:10/03/2016
+#Bubble  Sort Algorithms.
+#Author: Geraldo Braho
+#date:10/03/2016
 
 
 
