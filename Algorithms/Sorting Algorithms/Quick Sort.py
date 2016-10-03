@@ -1,3 +1,23 @@
+#Qucik Sort Sort Algorithms.
+#Author: Geraldo Braho
+#date:10/03/2016
+
+'''Pivot=> is the item that  we use to compare each number. Sometimes first item is used for pivot but that's not the best choice.
+The best choice to choose pivot is somewhere where the pivot can seperate the array in two equal parts.
+Quick sort is a recursive (method that calls itself)
+Divide and conquer algorithm
+Very efficient for large data sets.
+Worse case is O(n**2)
+Average case is O(n log n )
+
+Performance also depends largely on our pivot selection.
+
+
+
+Choosing the median of the first,middle,last as a pivot is another good way, so for this code we will choose the median as a pivot.
+
+
+
 def quick_sort(A):
 	quick_sort2(A, 0, len(A)-1)
 	
