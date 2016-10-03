@@ -14,7 +14,7 @@ Performance also depends largely on our pivot selection.
 
 
 
-Choosing the median of the first,middle,last as a pivot is another good way, so for this code we will choose the median as a pivot.
+Choosing the median of the first,middle,last as a pivot is another good way, so for this code we will choose the median as a pivot.'''
 
 
 
