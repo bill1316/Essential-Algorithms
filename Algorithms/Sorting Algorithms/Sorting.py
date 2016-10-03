@@ -1,3 +1,7 @@
+#Bubble  Sort Algorithms.
+#Author: Geraldo Braho
+#date:10/03/2016
+
 def InsertionSort(list):
     #loop the number of elements in the list
     for i in xrange(1,len(list)):
