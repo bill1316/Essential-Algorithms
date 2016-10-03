@@ -1,6 +1,6 @@
-///Insertion Sort Algorithms.
-//Author: Geraldo Braho
-//date:10/03/2016
+#Bubble  Sort Algorithms.
+#Author: Geraldo Braho
+#date:10/03/2016
 
 '''Insertion sort is not a fast sorting algorithm, because it uses nested loops to sort.
 It is useful only for small data set.
