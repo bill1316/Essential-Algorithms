@@ -1,6 +1,6 @@
-///Selection Sort Algorithms.
-//Author: Geraldo Braho
-//date:10/03/2016
+#Bubble  Sort Algorithms.
+#Author: Geraldo Braho
+#date:10/03/2016
 
 ''' With Selection sort first we identify the minimum value(element of the array) and swap it with the first position.
 Selection sort is nit a fast sorting algorithm because it uses nested loop to sort.
