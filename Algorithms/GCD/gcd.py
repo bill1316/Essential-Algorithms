@@ -1,5 +1,5 @@
 
-def gcd(a, b)
+def gcd(a, b):
     while (b!= 0):
        reminder= b
        b = a% b
@@ -11,7 +11,7 @@ def gcd(a, b)
     
     
 #another way
-def gcd(a, b)
+def gcd(a, b):
     while (a!=b):
         if a > b
            a = a − b; 
@@ -21,7 +21,7 @@ def gcd(a, b)
     
     
 #    another way
-def gcd(a, b)
+def gcd(a, b):
     if b = 0
        return a
     else
