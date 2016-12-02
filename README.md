@@ -2,6 +2,9 @@
 Repository containing solutions for some exercises from Essential Algorithms: A Practical Approach to Computer Algorithms by Rod Stephens
 
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+
 
 # Simpler Insertion Sort Function
 <iframe width="30" height="31" src="https://www.youtube.com/embed/hh3AkOGnnpE" frameborder="0" allowfullscreen></iframe>
