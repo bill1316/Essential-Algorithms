@@ -8,6 +8,7 @@ Repository containing solutions for some exercises from Essential Algorithms: A 
 
 # Simpler Insertion Sort Function
 <iframe width="30" height="31" src="https://www.youtube.com/embed/hh3AkOGnnpE" frameborder="0" allowfullscreen></iframe>
+[![Simpler Insertion Sort Function](http://images.slideplayer.com/15/4814390/slides/slide_4.jpg)](https://www.youtube.com/embed/hh3AkOGnnpE)
 
 # Bubble Sort
 
