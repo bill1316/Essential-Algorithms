@@ -3,15 +3,29 @@ Repository containing solutions for some exercises from Essential Algorithms: A 
 
 
 
-- ![Simpler Insertion Sort Function](https://www.youtube.com/watch?v=hh3AkOGnnpE)
+# Simpler Insertion Sort Function
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hh3AkOGnnpE" frameborder="0" allowfullscreen></iframe>
 
-- ![Bubble Sort!](https://www.youtube.com/watch?v=BMZ6MF_l3vw)
+# Bubble Sort
 
-- ![Shell-sort](https://www.youtube.com/watch?v=CmPA7zE8mx0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BMZ6MF_l3vw" frameborder="0" allowfullscreen></iframe>
+
+# Shell-sort
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CmPA7zE8mx0" frameborder="0" allowfullscreen></iframe>
 
 
-- ![ QuickSort Algorithm](https://www.youtube.com/watch?v=Z5nSXTnD1I4)
+# QuickSort Algorithm
 
-- ![Merge Sort](https://www.youtube.com/watch?v=GCae1WNvnZM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z5nSXTnD1I4" frameborder="0" allowfullscreen></iframe>
 
-- ![Heap Sort](https://www.youtube.com/watch?v=WYII2Oau_VY&feature=youtu.be)
+
+# Merge Sort
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GCae1WNvnZM" frameborder="0" allowfullscreen></iframe>
+
+
+# [Heap Sort
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WYII2Oau_VY" frameborder="0" allowfullscreen></iframe>
