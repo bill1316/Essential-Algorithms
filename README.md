@@ -25,7 +25,7 @@ Repository containing solutions for some exercises from Essential Algorithms: A 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GCae1WNvnZM" frameborder="0" allowfullscreen></iframe>
 
 
-# [Heap Sort
+# Heap Sort
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WYII2Oau_VY" frameborder="0" allowfullscreen></iframe>
