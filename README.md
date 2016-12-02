@@ -15,17 +15,17 @@ Repository containing solutions for some exercises from Essential Algorithms: A 
 
 
 
-[![Shell-sort](https://i.ytimg.com/vi/9YqdxccpwjI/maxresdefault.jpg](https://www.youtube.com/embed/CmPA7zE8mx0)
+[![Shell-sort](https://i.ytimg.com/vi/9YqdxccpwjI/maxresdefault.jpg)](https://www.youtube.com/embed/CmPA7zE8mx0)
 
 
 
-[![QuickSort Algorithm](http://i.imgur.com/b62tQ.png](https://www.youtube.com/embed/Z5nSXTnD1I4)
+[![QuickSort Algorithm](http://i.imgur.com/b62tQ.png)](https://www.youtube.com/embed/Z5nSXTnD1I4)
 
 
 
-[![Merge Sort](https://i.ytimg.com/vi/sG5m05eSNuI/maxresdefault.jpg](https://www.youtube.com/embed/GCae1WNvnZM)
+[![Merge Sort](https://i.ytimg.com/vi/sG5m05eSNuI/maxresdefault.jpg)](https://www.youtube.com/embed/GCae1WNvnZM)
 
 
 
 
-[![Heap Sort](http://opendatastructures.org/ods-python/img4229.png](https://www.youtube.com/embed/WYII2Oau_VY)
+[![Heap Sort](http://opendatastructures.org/ods-python/img4229.png)](https://www.youtube.com/embed/WYII2Oau_VY)
