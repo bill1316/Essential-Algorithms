@@ -1,4 +1,4 @@
-4.	Finding Prime factors:
+Finding Prime factors:
 '''
 List Of Integer: FindFactors(Integer: number)
 List Of Integer: factors
